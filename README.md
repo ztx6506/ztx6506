@@ -1,7 +1,6 @@
 ### Hi there 👋
 <p align="center">
 <a href="https://github.com/ztx6506/" target="_blank"><img src="https://raw.githubusercontent.com/edisonlee55/edisonlee55/master/kita-ikuyo-rap.webp" width="280" height="auto" /></a>
-<a href="https://github.com/ztx6506/" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
 <a href="https://github.com/ztx6506/" target="_blank"><img src="https://raw.githubusercontent.com/edisonlee55/edisonlee55/master/kita-ikuyo-rap.webp" width="280" height="auto" /></a>
 </p>
 
