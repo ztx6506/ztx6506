@@ -1,5 +1,21 @@
 ### Hi there 👋
+<p align="center">
+<a href="https://github.com/ztx6506/" target="_blank"><img src="https://raw.githubusercontent.com/edisonlee55/edisonlee55/master/kita-ikuyo-rap.webp" width="280" height="auto" /></a>
+<a href="https://github.com/ztx6506/" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+<a href="https://github.com/ztx6506/" target="_blank"><img src="https://raw.githubusercontent.com/edisonlee55/edisonlee55/master/kita-ikuyo-rap.webp" width="280" height="auto" /></a>
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztx6506)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+  </div>
+</div>
+<div>
+  <br>
+<p align="center">
+
+</p>
 <!--
 **ztx6506/ztx6506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
