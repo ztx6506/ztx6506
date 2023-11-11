@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztx6506)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ztx6506/ztx6506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
